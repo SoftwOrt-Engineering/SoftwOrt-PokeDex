@@ -3,7 +3,7 @@ PokeDex as Windows WPF Application - Gets informations from pokeapi.co
 
 ## Download
 
-- Download the [ZIP-Container](https://github.com/SoftwOrt-Engineering/SoftwOrt-PokeDex/raw/master/SpftwOrt-PokeDex.zip) and restore it on your loacal drive.
+- Download the [ZIP-Container](https://github.com/SoftwOrt-Engineering/SoftwOrt-PokeDex/raw/master/SoftwOrt-PokeDex.zip) and restore it on your loacal drive.
 - Start the PokeDex-Setup.exe and follow the wizard.
 - Start your PokeDex and have fun with it!
 
