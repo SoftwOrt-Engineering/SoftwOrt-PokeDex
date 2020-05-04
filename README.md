@@ -18,7 +18,7 @@ Information about the structure of the App:
 - The user interface is built in MVVM design. For this purpose the extension from Caliburn Micro is used.
 [Caliburn Micro](https://caliburnmicro.com/)
 
-- The backend for the API control is from PoroCYon [PoroCYon](https://gitlab.com/PoroCYon/PokeApi.NET)
+- The back-end NuGet for the API control is from [JJ Banda](https://github.com/mtrdp642/PokeApiNet)
 
 ## Source Code
 We are pleased if you like this PokeDex! Gladly you can write me suggestions or report errors on:
